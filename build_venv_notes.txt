@@ -1,0 +1,27 @@
+CREATE VENV
+-------------------------
+C:\Users\LocationFor\Python312\python -m venv OlmPyVenv
+
+
+PYTHON VERSION
+-------------------------
+Python 3.12.5
+
+
+INITIALIZE VENV 
+-------------------------
+cd OlmPyVenv
+.\scripts\activate
+cd ..
+
+
+PIP INSTALLS
+-------------------------
+pip install ollama
+
+
+OLLAMA INSTALLS
+-------------------------
+https://ollama.com/
+ollama pull llama3.2-vision
+

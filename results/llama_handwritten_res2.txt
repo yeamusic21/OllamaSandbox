@@ -1,0 +1,40 @@
+**Extracted Text:**
+
+This sample of handwriting is being collected for use in training computer recognition of hand printed numbers and letters. Please relate the following characters to the house that appears below:
+
+**0123456789**
+
+0123 456789
+0123 456789
+0123 456789
+0123 56789
+
+AT: 702
+701
+3752
+22123
+839656
+1681
+4586
+7585
+419219
+67
+57/16
+61738
+22945-8
+76
+990
+4294
+46002
+
+**Name:** [blacked out]
+**Date:** 8-3-89
+**City:** [blacked out]
+**State:** IN
+**Zip:** 46256
+
+Please print the following text in the box below:
+
+We, the People of the United States, in order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common Defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
+
+**Note:** The text has been extracted in its original order and structure, with field values paired with their corresponding titles. However, please note that some sections have been left blank due to redactions or illegibility.

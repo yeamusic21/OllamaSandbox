@@ -1,0 +1,40 @@
+**Text Extraction from Image**
+
+The following text is extracted from the provided image:
+
+**Handwritten Text:**
+
+* 0123456789
+* 0123 456789
+* 980041
+* 4586
+* 221123
+* 839656
+* 8734
+* 419219
+* 67
+* 57/16
+* 4294
+* 46002
+
+**Printed Text:**
+
+* This sample of handwriting is being collected for use in training computer analysis of hand printed numbers and letters. Please relate the following character to the house that appears below:
+        + 0123456789
+        + 0123 456789
+        + 980041
+        + 4586
+        + 221123
+        + 839656
+        + 8734
+        + 419219
+        + 67
+        + 57/16
+        + 4294
+        + 46002
+
+**Additional Text:**
+
+* We, the People of the United States, in order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
+
+**Note:** The handwritten text appears to be a sample of handwriting, while the printed text is a form or template with fields to be filled in. The additional text at the bottom is likely a quote from the United States Constitution.

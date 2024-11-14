@@ -1,0 +1,17 @@
+{
+    "model": "llama3.2-vision",
+    "created_at": "2024-11-14T19:27:33.3496586Z",
+    "message": {
+        "role": "assistant",
+        "content": "**Text Extraction from Image**\n\nThe following text is extracted from the provided image:\n\n**Handwritten Text:**\n\n* 0123456789\n* 0123 456789\n* 980041\n* 4586\n* 221123\n* 839656\n* 8734\n* 419219\n* 67\n* 57/16\n* 4294\n* 46002\n\n**Printed Text:**\n\n* This sample of handwriting is being collected for use in training computer analysis of hand printed numbers and letters. Please relate the following character to the house that appears below:\n\t+ 0123456789\n\t+ 0123 456789\n\t+ 980041\n\t+ 4586\n\t+ 221123\n\t+ 839656\n\t+ 8734\n\t+ 419219\n\t+ 67\n\t+ 57/16\n\t+ 4294\n\t+ 46002\n\n**Additional Text:**\n\n* We, the People of the United States, in order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.\n\n**Note:** The handwritten text appears to be a sample of handwriting, while the printed text is a form or template with fields to be filled in. The additional text at the bottom is likely a quote from the United States Constitution."
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 516671247400,
+    "load_duration": 143483000,
+    "prompt_eval_count": 19,
+    "prompt_eval_duration": 354336000000,
+    "eval_count": 322,
+    "eval_duration": 161842000000,
+    "prompt": "Please extract all text from the image"
+}

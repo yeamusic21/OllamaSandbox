@@ -1,0 +1,1 @@
+https://portal.vision.cognitive.azure.com/demo/extract-text-from-images

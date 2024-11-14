@@ -1,0 +1,17 @@
+{
+    "model": "llama3.2-vision",
+    "created_at": "2024-11-14T21:11:34.8508022Z",
+    "message": {
+        "role": "assistant",
+        "content": "**Extracted Text:**\n\nThis sample of handwriting is being collected for use in training computer recognition of hand printed numbers and letters. Please relate the following characters to the house that appears below:\n\n**0123456789**\n\n0123 456789\n0123 456789\n0123 456789\n0123 56789\n\nAT: 702\n701\n3752\n22123\n839656\n1681\n4586\n7585\n419219\n67\n57/16\n61738\n22945-8\n76\n990\n4294\n46002\n\n**Name:** [blacked out]\n**Date:** 8-3-89\n**City:** [blacked out]\n**State:** IN\n**Zip:** 46256\n\nPlease print the following text in the box below:\n\nWe, the People of the United States, in order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common Defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.\n\n**Note:** The text has been extracted in its original order and structure, with field values paired with their corresponding titles. However, please note that some sections have been left blank due to redactions or illegibility."
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 630172665000,
+    "load_duration": 195565785400,
+    "prompt_eval_count": 41,
+    "prompt_eval_duration": 296208000000,
+    "eval_count": 278,
+    "eval_duration": 138052000000,
+    "prompt": "Please extract all text from the image in its original order and structure; but for forms and tables, please pair field values with their field titles."
+}
